@@ -12,6 +12,9 @@
 10. Commited the new README.md file with additional info.
 11. Pushed the `add-readme` branch to GitHub and opened PR to merge into main.
 12. Merged the `add-readme` branch into main. 
+13. Changed `project.txt` to markdown for better formatting.
+14. Renamed `project.md` to `recipe.md` to be more relevant.
+15. Updated README.md
 
 ## Git alias (not visible in commit history)
 

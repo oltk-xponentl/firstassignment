@@ -1,13 +1,10 @@
-Initialized repo
-Additional text here
+# **Receta e Cekes per Llokuma**
 
-Receta e Cekes per llokuma:
-
-PËRBËRËSIT:
+### **PËRBËRËSIT**
 
 - 900 gr miell, 3 vezë, 1/2 kg kos, 1 pluhur paste, 1 lugë çaji sodë buke (ose 2 lugë sodë, pa pluhur paste), kripë, vaj. 
 
-PROCEDURA:
+### **PROCEDURA**
 - Tunden vezët me pirun. Shtohet kripë dhe pastaj shtohet edhe masa e kosit.
 - Gradualisht hidhet mielli, duke e përzier me lugë.
 - Brumi derdhet në tavolinë të përmillur dhe ngjeshet pak, sa mos të ngjitet për duar. 
